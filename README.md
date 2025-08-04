@@ -1,6 +1,6 @@
 # Sky Group
 
-lorem dsfaskdjf ;ksdfj ;sdk f;sdkfj;sdkf j
+**lorem** dsfaskdjf ;ksdfj ;sdk f;sdkfj;sdkf j
  dfsadf sd f
 
 ## Week 1
@@ -17,4 +17,4 @@ asdf sd
 ### Homework
 
 
-as dasdf asdf 
+as dasdf asdf
