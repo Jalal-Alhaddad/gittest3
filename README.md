@@ -3,7 +3,7 @@
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
 **lorem** dsfaskdjf ;ksdfj ;sdk f;sdkfj;sdkf j
- dfsadf sd f
+dfsadf sd f
 
 ## Week 1
 
@@ -27,12 +27,10 @@ asdf sd
 var x = 0;
 ```
 
-
 ![alt text](./Images/image-1.png)
-
-
 
 ## Extensions
 
 df asdfsdf f
 
+sdfasdfasdf
