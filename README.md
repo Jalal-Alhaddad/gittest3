@@ -33,4 +33,7 @@ var x = 0;
 
 df asdfsdf f
 
+<<<<<<< HEAD
 sdfasdfasdf
+=======
+
